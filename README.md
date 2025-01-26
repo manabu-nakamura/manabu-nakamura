@@ -8,7 +8,6 @@
     - https://github.com/material-components/material-components-android/pull/4278
     - https://github.com/material-components/material-components-android/pull/4035
     - https://github.com/material-components/material-components-android/pull/4004
-
   - https://m3.material.io/components
 
 <!--
