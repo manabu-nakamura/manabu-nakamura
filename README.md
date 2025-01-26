@@ -1,13 +1,15 @@
 - [Material Components for Android](https://github.com/material-components/material-components-android):
   - [material-components/material-components-android/issues?q=author:manabu-nakamura state:open](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20state%3Aopen):
-    - https://github.com/material-components/material-components-android/pull/4499
-    - https://github.com/material-components/material-components-android/pull/4364
-    - https://github.com/material-components/material-components-android/pull/4351
-    - https://github.com/material-components/material-components-android/issues/4295
-    - https://github.com/material-components/material-components-android/pull/4284
-    - https://github.com/material-components/material-components-android/pull/4278
-    - https://github.com/material-components/material-components-android/pull/4035
-    - https://github.com/material-components/material-components-android/pull/4004
+    - [[Catalog][DatePicker] listener is added again after rotating device](https://github.com/material-components/material-components-android/pull/4499)
+    - [[Slider] Fix slider label not moving](https://github.com/material-components/material-components-android/pull/4364)
+    - [[BottomSheet] make BottomSheet clickable](https://github.com/material-components/material-components-android/pull/4351)
+    - [[TabLayout] (proposal) ripple](https://github.com/material-components/material-components-android/pull/4296)
+    - [[Docs] unify scrim opacity](https://github.com/material-components/material-components-android/issues/4295)
+    - [[TopAppBar] color of ActionBar overflow menu background is correct](https://github.com/material-components/material-components-android/pull/4284)
+    - [[Color][Menu] theme overlay is applied to CREATED window decorView](https://github.com/material-components/material-components-android/pull/4278)
+    - [[Slider][RangeSlider] valueFrom and valueTo can have the same value](https://github.com/material-components/material-components-android/pull/4257)
+    - [[Slider] Fix ripple not transparent in dark theme on API 33](https://github.com/material-components/material-components-android/pull/4035)
+    - [[DatePicker][TimePicker][TextField] update icons](https://github.com/material-components/material-components-android/pull/4004)
   - https://m3.material.io/components
 
 <!--
