@@ -1,6 +1,6 @@
-- [Material Design](https://m3.material.io/):
-  - [Material Components for Android](https://github.com/material-components/material-components-android):
-    - [material-components/material-components-android/issues?q=author:manabu-nakamura state:open](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20state%3Aopen):
+- [Material Design](https://m3.material.io/)
+  - [Material Components for Android](https://github.com/material-components/material-components-android)
+    - [material-components/material-components-android/issues?q=author:manabu-nakamura state:open](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20state%3Aopen)
       - [[Catalog][DatePicker] listener is added again after rotating device](https://github.com/material-components/material-components-android/pull/4499)
       - [[Slider] Fix slider label not moving](https://github.com/material-components/material-components-android/pull/4364)
       - [[BottomSheet] make BottomSheet clickable](https://github.com/material-components/material-components-android/pull/4351)
@@ -11,6 +11,8 @@
       - [[Slider][RangeSlider] valueFrom and valueTo can have the same value](https://github.com/material-components/material-components-android/pull/4257)
       - [[Slider] Fix ripple not transparent in dark theme on API 33](https://github.com/material-components/material-components-android/pull/4035)
       - [[DatePicker][TimePicker][TextField] update icons](https://github.com/material-components/material-components-android/pull/4004)
+  - [Jetpack Compose](https://developer.android.com/compose)
+    - [android/compose-samples/issues?q=author:manabu-nakamura](https://github.com/android/compose-samples/issues?q=author%3Amanabu-nakamura)
 
 <!--
 ## Hi there 👋
