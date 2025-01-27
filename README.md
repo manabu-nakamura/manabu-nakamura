@@ -9,7 +9,7 @@
       - [[TopAppBar] color of ActionBar overflow menu background is correct](https://github.com/material-components/material-components-android/pull/4284)
       - [[Color][Menu] theme overlay is applied to CREATED window decorView](https://github.com/material-components/material-components-android/pull/4278)
       - [[Slider][RangeSlider] valueFrom and valueTo can have the same value](https://github.com/material-components/material-components-android/pull/4257)
-      - [[Slider] Fix ripple not transparent in dark theme on API 33](https://github.com/material-components/material-components-android/pull/4035) ⚡
+      - [[Slider] Fix ripple not transparent in dark theme on API 33](https://github.com/material-components/material-components-android/pull/4035) ☀
       - [[DatePicker][TimePicker][TextField] update icons](https://github.com/material-components/material-components-android/pull/4004)
       - [[BottomAppBar] BottomAppBar casts a shadow](https://github.com/material-components/material-components-android/issues/2953) ☑
   - [Jetpack Compose](https://developer.android.com/compose)
