@@ -1,7 +1,7 @@
 - [Material Design](https://m3.material.io/)
   - [Material Components for Android](https://github.com/material-components/material-components-android)
     - [material-components/material-components-android/issues?q=author:manabu-nakamura](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura)
-      - [scrim color of drawer layout (navigation drawer) is darker than scrim color of other components](https://issuetracker.google.com/issues/365245820) ☀
+      - [scrim color of drawer layout (navigation drawer) is darker than scrim color of other components](https://issuetracker.google.com/issues/365245820) :hearts:
       - [[DatePicker] add divider to DatePicker](https://github.com/material-components/material-components-android/issues/4470)
       - [[BottomSheet] make BottomSheet clickable](https://github.com/material-components/material-components-android/pull/4351)
       - [[TopAppBar] color of ActionBar overflow menu background is correct](https://github.com/material-components/material-components-android/pull/4284)
@@ -10,7 +10,7 @@
       - [[Menu] context menu background color is strange](https://github.com/material-components/material-components-android/issues/3969)
       - [[DatePicker][TimePicker][TextField] icons are different from spec](https://github.com/material-components/material-components-android/issues/3961)
       - [[TabLayout] ripple of TabLayout is different from ripple of other components](https://github.com/material-components/material-components-android/issues/3157)
-      - [[BottomAppBar] BottomAppBar casts a shadow](https://github.com/material-components/material-components-android/issues/2953) ☑
+      - [[BottomAppBar] BottomAppBar casts a shadow](https://github.com/material-components/material-components-android/issues/2953) :ballot_box_with_check:
   - [Jetpack Compose](https://developer.android.com/compose)
     - [android/compose-samples/issues?q=author:manabu-nakamura](https://github.com/android/compose-samples/issues?q=author%3Amanabu-nakamura)
 
