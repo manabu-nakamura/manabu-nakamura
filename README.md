@@ -1,10 +1,8 @@
 - [Material Design](https://m3.material.io/)
   - [Material Components for Android](https://github.com/material-components/material-components-android)
     - [material-components/material-components-android/issues?q=author:manabu-nakamura](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura)
-      - [[Catalog][DatePicker] listener is added again after rotating device](https://github.com/material-components/material-components-android/pull/4499)
-      - [[DatePicker] add divider to DatePicker](https://github.com/material-components/material-components-android/issues/4470) ☀
-      - [[Slider] Fix slider label not moving](https://github.com/material-components/material-components-android/pull/4364)
-      - [[BottomSheet] make BottomSheet clickable](https://github.com/material-components/material-components-android/pull/4351) ☀
+      - [[DatePicker] add divider to DatePicker](https://github.com/material-components/material-components-android/issues/4470)
+      - [[BottomSheet] make BottomSheet clickable](https://github.com/material-components/material-components-android/pull/4351)
       - [[TabLayout] (proposal) ripple](https://github.com/material-components/material-components-android/pull/4296) ☀
       - [[Docs] unify scrim opacity](https://github.com/material-components/material-components-android/issues/4295) ([scrim color of drawer layout (navigation drawer) is darker than scrim color of other components](https://issuetracker.google.com/issues/365245820)) ☀
       - [[TopAppBar] color of ActionBar overflow menu background is correct](https://github.com/material-components/material-components-android/pull/4284) ☀
