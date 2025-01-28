@@ -1,7 +1,15 @@
 - [Material Design](https://m3.material.io/)
   - [Material Components for Android](https://github.com/material-components/material-components-android)
     - [material-components/material-components-android/issues?q=author:manabu-nakamura](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura)
+      - [[BottomAppBar] BottomAppBar casts a shadow](https://github.com/material-components/material-components-android/issues/2953) :ballot_box_with_check:
+      - [scrim color of drawer layout (navigation drawer) is darker than scrim color of other components](https://issuetracker.google.com/issues/365245820) :hearts:
+      - [[Slider] vertical slider in horizontal scrollview can not be scrolled](https://github.com/material-components/material-components-android/issues/4510)
+      - [[Catalog][DatePicker] navigation bar has no contrast if edge to edge setting is on](https://github.com/material-components/material-components-android/issues/4501)
+      - [[Catalog][DatePicker] listener is added again after rotating device](https://github.com/material-components/material-components-android/pull/4499)
+      - [[Slider] Fix slider label not moving](https://github.com/material-components/material-components-android/pull/4364)
+      - [[DatePicker] icon is inconsistent](https://github.com/material-components/material-components-android/issues/4485)
       - [[DatePicker] add divider to DatePicker](https://github.com/material-components/material-components-android/issues/4470)
+      - [[Slider] simplified implementation](https://github.com/material-components/material-components-android/pull/4352)
       - [[BottomSheet] make BottomSheet clickable](https://github.com/material-components/material-components-android/pull/4351)
       - [[TopAppBar] color of ActionBar overflow menu background is correct](https://github.com/material-components/material-components-android/pull/4284)
       - [[Slider][RangeSlider] valueFrom and valueTo can have the same value](https://github.com/material-components/material-components-android/pull/4257)
@@ -9,8 +17,6 @@
       - [[Menu] context menu background color is strange](https://github.com/material-components/material-components-android/issues/3969)
       - [[DatePicker][TimePicker][TextField] icons are different from spec](https://github.com/material-components/material-components-android/issues/3961)
       - [[TabLayout] ripple of TabLayout is different from ripple of other components](https://github.com/material-components/material-components-android/issues/3157)
-      - [[BottomAppBar] BottomAppBar casts a shadow](https://github.com/material-components/material-components-android/issues/2953) :ballot_box_with_check:
-      - [scrim color of drawer layout (navigation drawer) is darker than scrim color of other components](https://issuetracker.google.com/issues/365245820) :hearts:
   - [Jetpack Compose](https://developer.android.com/compose)
     - [android/compose-samples/issues?q=author:manabu-nakamura](https://github.com/android/compose-samples/issues?q=author%3Amanabu-nakamura)
 
