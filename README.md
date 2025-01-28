@@ -17,6 +17,7 @@
       - [[Menu] context menu background color is strange](https://github.com/material-components/material-components-android/issues/3969)
       - [[DatePicker][TimePicker][TextField] icons are different from spec](https://github.com/material-components/material-components-android/issues/3961)
       - [[TabLayout] ripple of TabLayout is different from ripple of other components](https://github.com/material-components/material-components-android/issues/3157)
+      - ...
   - [Jetpack Compose](https://developer.android.com/compose)
     - [android/compose-samples/issues?q=author:manabu-nakamura](https://github.com/android/compose-samples/issues?q=author%3Amanabu-nakamura)
 
