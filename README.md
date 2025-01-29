@@ -4,7 +4,7 @@
       - [[BottomAppBar] BottomAppBar casts a shadow](https://github.com/material-components/material-components-android/issues/2953) :ballot_box_with_check:
       - [scrim color of drawer layout (navigation drawer) is darker than scrim color of other components](https://issuetracker.google.com/issues/365245820) :hearts:
       - [[Catalog][DatePicker] listener is added again after rotating device](https://github.com/material-components/material-components-android/pull/4499)
-      - [[Slider] Fix slider label not moving](https://github.com/material-components/material-components-android/pull/4364)
+      - [[Slider] Fix slider label not moving](https://github.com/material-components/material-components-android/pull/4364) :hearts:
       - [[Slider] simplified implementation](https://github.com/material-components/material-components-android/pull/4352)
       - [[Catalog][DatePicker] navigation bar has no contrast if edge to edge setting is on](https://github.com/material-components/material-components-android/issues/4501)
       - [[DatePicker] icon is inconsistent](https://github.com/material-components/material-components-android/issues/4485)
@@ -19,6 +19,8 @@
       - ...
   - [Jetpack Compose](https://developer.android.com/compose)
     - [android/compose-samples/issues?q=author:manabu-nakamura](https://github.com/android/compose-samples/issues?q=author%3Amanabu-nakamura)
+- [Android Jetpack](https://github.com/androidx/androidx)
+  - [androidx/androidx/pulls?q=author:manabu-nakamura](https://github.com/androidx/androidx/pulls?q=author%3Amanabu-nakamura)
 
 <!--
 ## Hi there 👋
