@@ -1,3 +1,5 @@
+- [https://github.com/material-components/material-components-android/commits?author=manabu-nakamura](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura)
+- [https://github.com/material-components/material-components-android/issues?q=author:manabu-nakamura](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura)
 - [https://github.com/issues?q=author:manabu-nakamura](https://github.com/issues?q=author%3Amanabu-nakamura)
   - [Material Components for Android](https://github.com/material-components/material-components-android)
     - [[BottomAppBar] BottomAppBar casts a shadow](https://github.com/material-components/material-components-android/issues/2953) :ballot_box_with_check:
