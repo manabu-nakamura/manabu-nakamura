@@ -1,6 +1,6 @@
-- [https://github.com/material-components/material-components-android/commits?author=manabu-nakamura](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura)
-- [https://github.com/material-components/material-components-android/issues?q=author:manabu-nakamura](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura)
-  - [Material Components for Android](https://github.com/material-components/material-components-android)
+- [Material Components for Android](https://github.com/material-components/material-components-android)
+  - [https://github.com/material-components/material-components-android/commits?author=manabu-nakamura](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura)
+  - [https://github.com/material-components/material-components-android/issues?q=author:manabu-nakamura](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura)
     - [[BottomAppBar] BottomAppBar casts a shadow](https://github.com/material-components/material-components-android/issues/2953) :ballot_box_with_check:
     - [scrim color of drawer layout (navigation drawer) is darker than scrim color of other components](https://issuetracker.google.com/issues/365245820) :hearts:
     - [[Catalog][DatePicker] listener is added again after rotating device](https://github.com/material-components/material-components-android/pull/4499)
