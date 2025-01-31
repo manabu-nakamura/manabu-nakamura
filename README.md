@@ -1,6 +1,8 @@
 - [Material Components for Android](https://github.com/material-components/material-components-android)
   - [https://github.com/material-components/material-components-android/commits?author=manabu-nakamura](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura)
   - [https://github.com/material-components/material-components-android/issues?q=author:manabu-nakamura](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura)
+    - [[Slider] vertical slider in horizontal scrollview can not be scrolled](https://github.com/material-components/material-components-android/issues/4510) :ballot_box_with_check:
+    - [[Slider] label is not gone with slider](https://github.com/material-components/material-components-android/issues/4319) :ballot_box_with_check:
     - [[NavigationDrawer][SideSheet][BottomSheet][DatePicker][TimePicker][Dialog] Unify scrim color](https://github.com/material-components/material-components-android/issues/3635) :ballot_box_with_check:
     - [[Catalog][NavigationDrawer] After restarting activity and pushing back button, opened navigation drawer will not be closed but activity will be closed](https://github.com/material-components/material-components-android/issues/3610) :ballot_box_with_check:
     - [[BottomAppBar] BottomAppBar casts a shadow](https://github.com/material-components/material-components-android/issues/2953) :ballot_box_with_check:
