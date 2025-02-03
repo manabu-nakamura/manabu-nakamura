@@ -7,11 +7,12 @@
       - [[SideSheet][BottomSheet][DatePicker][TimePicker][Dialog] Unify scrim color](https://github.com/material-components/material-components-android/issues/3635) :ballot_box_with_check:
       - [[Catalog][NavigationDrawer] After restarting activity and pushing back button, opened navigation drawer will not be closed but activity will be closed](https://github.com/material-components/material-components-android/issues/3610) :ballot_box_with_check:
       - [[BottomAppBar] BottomAppBar casts a shadow](https://github.com/material-components/material-components-android/issues/2953) :ballot_box_with_check:
-    - Open:
-      - [scrim color of drawer layout (navigation drawer) is darker than scrim color of other components](https://issuetracker.google.com/issues/365245820) :hearts:
+    - Open (Reviewing Internally):
       - [[Catalog][DatePicker] listener is added again after rotating device](https://github.com/material-components/material-components-android/pull/4499)
       - [[Slider] Fix slider label not moving](https://github.com/material-components/material-components-android/pull/4364) :hearts:
       - [[Slider] simplified implementation](https://github.com/material-components/material-components-android/pull/4352)
+    - Open:
+      - [scrim color of drawer layout (navigation drawer) is darker than scrim color of other components](https://issuetracker.google.com/issues/365245820) :hearts:
       - [[Catalog][DatePicker] navigation bar has no contrast if edge to edge setting is on](https://github.com/material-components/material-components-android/issues/4501)
       - [[DatePicker] icon is inconsistent](https://github.com/material-components/material-components-android/issues/4485)
       - [[DatePicker] add divider to DatePicker](https://github.com/material-components/material-components-android/issues/4470)
