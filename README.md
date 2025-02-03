@@ -21,7 +21,7 @@
       - [[Slider] ripple is not transparent in dark theme on API 33](https://github.com/material-components/material-components-android/issues/3988)
       - [[Menu] context menu background color is strange](https://github.com/material-components/material-components-android/issues/3969)
       - [[DatePicker][TimePicker][TextField] icons are different from spec](https://github.com/material-components/material-components-android/issues/3961)
-      - [[TabLayout] ripple of TabLayout is different from ripple of other components](https://github.com/material-components/material-components-android/issues/3157)
+      - [[TabLayout] ripple of TabLayout is different from ripple of other components](https://github.com/material-components/material-components-android/issues/3157) :hearts:
 
 <!--
 ## Hi there 👋
