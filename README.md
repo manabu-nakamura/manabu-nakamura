@@ -4,7 +4,7 @@
     - Closed:
       - [[Slider] vertical slider in horizontal scrollview can not be scrolled](https://github.com/material-components/material-components-android/issues/4510) :ballot_box_with_check:
       - [[Slider] label is not gone with slider](https://github.com/material-components/material-components-android/issues/4319) :ballot_box_with_check:
-      - [[Predictive Back] Use OnBackPressedCallback in MaterialBackOrchestrator for Android 12-](https://github.com/material-components/material-components-android/issues/3637)
+      - [[PredictiveBack] Use OnBackPressedCallback in MaterialBackOrchestrator for Android 12-](https://github.com/material-components/material-components-android/issues/3637)
       - [[SideSheet][BottomSheet][DatePicker][TimePicker][Dialog] Unify scrim color](https://github.com/material-components/material-components-android/issues/3635) :ballot_box_with_check:
       - [[BottomAppBar] BottomAppBar casts a shadow](https://github.com/material-components/material-components-android/issues/2953) :ballot_box_with_check:
     - Open (Reviewing Internally):
