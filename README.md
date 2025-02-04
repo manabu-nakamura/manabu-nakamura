@@ -13,6 +13,7 @@
       - [[Slider] simplified implementation](https://github.com/material-components/material-components-android/pull/4352)
     - Open:
       - [scrim color of drawer layout (navigation drawer) is darker than scrim color of other components](https://issuetracker.google.com/issues/365245820) :hearts:
+      - [[Catalog] add cutout mode preference](https://github.com/material-components/material-components-android/issues/4576) :hearts:
       - [[Catalog][DatePicker] navigation bar has no contrast if edge to edge setting is on](https://github.com/material-components/material-components-android/issues/4501)
       - [[DatePicker] icon is inconsistent](https://github.com/material-components/material-components-android/issues/4485)
       - [[DatePicker] add divider to DatePicker](https://github.com/material-components/material-components-android/issues/4470)
