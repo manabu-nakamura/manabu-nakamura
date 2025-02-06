@@ -11,12 +11,20 @@
       - [[Catalog][DatePicker] listener is added again after rotating device](https://github.com/material-components/material-components-android/pull/4499)
       - [[Slider] Fix slider label not moving](https://github.com/material-components/material-components-android/pull/4364) :hearts:
       - [[Slider] simplified implementation](https://github.com/material-components/material-components-android/pull/4352)
+    - Open (Workaround):
+      - [[Catalog] workaround for #3961 ([DatePicker][TimePicker][TextField] icons are different from spec)](https://github.com/material-components/material-components-android/pull/4556)
+      - [[Catalog] workaround for #3988 ([Slider] ripple is not transparent in dark theme on API 33)](https://github.com/material-components/material-components-android/pull/4555)
+      - [[Catalog] workaround for #4350 ([Standard Bottom Sheet] Clicks pass through standard bottom sheet to the view behind it)](https://github.com/material-components/material-components-android/pull/4543)
+      - [[Catalog] workaround for #4139 ([TopAppBar] Color of ActionBar overflow menu background is incorrect)](https://github.com/material-components/material-components-android/pull/4542)
+      - [[Catalog] workaround for #3969 ([Menu] context menu background color is strange)](https://github.com/material-components/material-components-android/pull/4540)
+      - [[Catalog] workaround for #3635 ([Navigation Drawer] Unify scrim color)](https://github.com/material-components/material-components-android/pull/4530)
+      - [[Catalog] workaround for #1464 ([Exposed Dropdown Menu] Filtering incorrectly applied after rotation)](https://github.com/material-components/material-components-android/pull/4506)
     - Open:
       - [scrim color of drawer layout (navigation drawer) is darker than scrim color of other components](https://issuetracker.google.com/issues/365245820) :hearts:
       - [[Catalog] add cutout mode preference](https://github.com/material-components/material-components-android/issues/4576) :hearts:
       - [[Catalog][DatePicker] navigation bar has no contrast if edge to edge setting is on](https://github.com/material-components/material-components-android/issues/4501)
       - [[DatePicker] icon is inconsistent](https://github.com/material-components/material-components-android/issues/4485)
-      - [[DatePicker] add divider to DatePicker](https://github.com/material-components/material-components-android/issues/4470)
+      - [[DatePicker] add divider to DatePicker](https://github.com/material-components/material-components-android/issues/4470) :hearts:
       - [[BottomSheet] make BottomSheet clickable](https://github.com/material-components/material-components-android/pull/4351)
       - [[TopAppBar] color of ActionBar overflow menu background is correct](https://github.com/material-components/material-components-android/pull/4284)
       - [[Slider][RangeSlider] valueFrom and valueTo can have the same value](https://github.com/material-components/material-components-android/pull/4257)
