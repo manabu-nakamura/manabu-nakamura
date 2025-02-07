@@ -1,5 +1,6 @@
 - [Material Components for Android](https://github.com/material-components/material-components-android)
-  - [contributions to Material Components for Android](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura)
+  - [App for testing and learning Material Components for Android](https://github.com/manabu-nakamura/app)
+  - [Contributions to Material Components for Android](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura)
     - Closed:
       - [[Slider] vertical slider in horizontal scrollview can not be scrolled](https://github.com/material-components/material-components-android/issues/4510) :ballot_box_with_check:
       - [[Slider] label is not gone with slider](https://github.com/material-components/material-components-android/issues/4319) :ballot_box_with_check:
