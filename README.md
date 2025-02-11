@@ -33,6 +33,8 @@
       - [[Catalog] Applied edge-to-edge to bottom sheet](https://github.com/material-components/material-components-android/pull/4001)
       - [[Catalog][BottomSheet] foreground color of status bar changes if bottom sheet is opened multiple times](https://github.com/material-components/material-components-android/issues/3940)
       - [[TabLayout] ripple of TabLayout is different from ripple of other components](https://github.com/material-components/material-components-android/issues/3157) :red_square:
+- [Jetpack Compose](https://developer.android.com/compose)
+  - [App for testing and learning Jetpack Compose](https://github.com/manabu-nakamura/appc) :red_square:
 
 <!--
 ## Hi there 👋
