@@ -1,6 +1,6 @@
 - [Material Components for Android](https://github.com/material-components/material-components-android)
-  - [App for testing and learning Material Components for Android](https://github.com/manabu-nakamura/app) :red_square:
-  - [Contributions to Material Components for Android](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura) :red_square:
+  - [App](https://github.com/manabu-nakamura/app) :red_square:
+  - [Contributions](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura) ([PRs are not directly merged into the repository](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)) :red_square:
     - https://github.com/material-components/material-components-android/commits?author=manabu-nakamura
     - Closed:
       - [[Slider] vertical slider in horizontal scrollview can not be scrolled](https://github.com/material-components/material-components-android/issues/4510) :ballot_box_with_check:
@@ -34,7 +34,8 @@
       - [[Catalog][BottomSheet] foreground color of status bar changes if bottom sheet is opened multiple times](https://github.com/material-components/material-components-android/issues/3940)
       - [[TabLayout] ripple of TabLayout is different from ripple of other components](https://github.com/material-components/material-components-android/issues/3157) :red_square:
 - [Jetpack Compose](https://developer.android.com/compose)
-  - [App for testing and learning Jetpack Compose](https://github.com/manabu-nakamura/appc) :red_square:
+  - [App](https://github.com/manabu-nakamura/appc) :red_square:
+  - [Contributions](https://github.com/android/compose-samples/issues?q=author%3Amanabu-nakamura) :red_square:
 
 <!--
 ## Hi there 👋
