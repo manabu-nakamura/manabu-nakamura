@@ -1,5 +1,5 @@
+Contributions and App ([Material Components for Android](https://github.com/material-components/material-components-android) and [Jetpack Compose](https://developer.android.com/compose))
 - [Material Components for Android](https://github.com/material-components/material-components-android)
-  - [App](https://github.com/manabu-nakamura/app) 🟥
   - [Contributions](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura) ([PRs are not directly merged into the repository](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)) 🟥
     - https://github.com/material-components/material-components-android/commits?author=manabu-nakamura
     - Closed:
@@ -33,8 +33,9 @@
       - [[Catalog] Applied edge-to-edge to bottom sheet](https://github.com/material-components/material-components-android/pull/4001)
       - [[Catalog][BottomSheet] foreground color of status bar changes if bottom sheet is opened multiple times](https://github.com/material-components/material-components-android/issues/3940)
       - [[TabLayout] ripple of TabLayout is different from ripple of other components](https://github.com/material-components/material-components-android/issues/3157) 🟥
+  - [App](https://github.com/manabu-nakamura/app) 🟥
 - [Jetpack Compose](https://developer.android.com/compose)
-  - [App](https://github.com/manabu-nakamura/appc) 🟥
   - [Contributions](https://github.com/android/compose-samples/issues?q=author%3Amanabu-nakamura) 🟥
+  - [App](https://github.com/manabu-nakamura/appc) 🟥
 
 [Manabu Nakamura](https://github.com/manabu-nakamura)
