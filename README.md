@@ -14,5 +14,3 @@
   - [Contributions](https://github.com/cotes2020/jekyll-theme-chirpy/issues?q=author%3Amanabu-nakamura)
 - [Visual Studio Code](https://github.com/microsoft/vscode)
   - [Contributions](https://github.com/microsoft/vscode/issues?q=author%3Amanabu-nakamura)
-
-[Manabu Nakamura](https://github.com/manabu-nakamura)
