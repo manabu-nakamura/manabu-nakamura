@@ -1,5 +1,5 @@
 - [Material Components for Android](https://github.com/material-components/material-components-android)\
-([PRs are not directly merged into the repository](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process))
+🟥 [PRs are not directly merged into the repository](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)
   - [Contributions](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura)
     - [Commits](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura)
     - [Comments](https://github.com/material-components/material-components-android/issues?q=commenter%3Amanabu-nakamura)
