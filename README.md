@@ -3,6 +3,12 @@
 🟥 [PRs are not directly merged into the repository](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)
     - [Contributions](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
       - [Commits](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura)
+<details>
+<summary>detail</summary>
+
+- [Visual Studio Code](https://github.com/microsoft/vscode)
+  - [Contributions](https://github.com/microsoft/vscode/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
+</details>
     - [App](https://github.com/manabu-nakamura/app) and [Memo](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md)
   - [Jetpack Compose](https://developer.android.com/compose)
     - [Contributions](https://github.com/android/compose-samples/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
@@ -13,9 +19,3 @@
     - [Contributions](https://github.com/cotes2020/jekyll-theme-chirpy/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
   - [Visual Studio Code](https://github.com/microsoft/vscode)
     - [Contributions](https://github.com/microsoft/vscode/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
-<details>
-<summary>Tips for collapsed sections</summary>
-
-- [Visual Studio Code](https://github.com/microsoft/vscode)
-  - [Contributions](https://github.com/microsoft/vscode/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
-</details>
