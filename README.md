@@ -15,6 +15,7 @@
     - [Contributions](https://github.com/microsoft/vscode/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
 <details>
 <summary>Tips for collapsed sections</summary>
-  - [Visual Studio Code](https://github.com/microsoft/vscode)
-    - [Contributions](https://github.com/microsoft/vscode/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
+
+- [Visual Studio Code](https://github.com/microsoft/vscode)
+  - [Contributions](https://github.com/microsoft/vscode/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
 </details>
