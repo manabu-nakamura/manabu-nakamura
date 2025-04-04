@@ -16,9 +16,11 @@
 <details>
 <summary>detail</summary>
 
+- [Contributions](https://github.com/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
   - [Material Components for Android](https://github.com/material-components/material-components-android)\
 🟥 [PRs are not directly merged into the repository](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)
     - [Contributions](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
+      - [Commits](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura)
       - Closed:
         - [[Slider] vertical slider in horizontal scrollview can not be scrolled](https://github.com/material-components/material-components-android/issues/4510) ☑️
         - [[Slider] label is not gone with slider](https://github.com/material-components/material-components-android/issues/4319) ☑️
@@ -50,4 +52,5 @@
         - [[Catalog] Applied edge-to-edge to bottom sheet](https://github.com/material-components/material-components-android/pull/4001)
         - [[Catalog][BottomSheet] foreground color of status bar changes if bottom sheet is opened multiple times](https://github.com/material-components/material-components-android/issues/3940)
         - [[TabLayout] ripple of TabLayout is different from ripple of other components](https://github.com/material-components/material-components-android/issues/3157) 🟥
+    - [App](https://github.com/manabu-nakamura/app) and [Memo](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md)
 </details>
