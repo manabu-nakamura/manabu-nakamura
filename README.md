@@ -53,4 +53,13 @@
         - [[Catalog][BottomSheet] foreground color of status bar changes if bottom sheet is opened multiple times](https://github.com/material-components/material-components-android/issues/3940)
         - [[TabLayout] ripple of TabLayout is different from ripple of other components](https://github.com/material-components/material-components-android/issues/3157) 🟥
     - [App](https://github.com/manabu-nakamura/app) and [Memo](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md)
+  - [Jetpack Compose](https://developer.android.com/compose)
+    - [Contributions](https://github.com/android/compose-samples/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
+    - [App](https://github.com/manabu-nakamura/appc) and [Memo](https://github.com/manabu-nakamura/appc/blob/main/docs/memo.md)
+  - [GitHub Flavored Markdown Admonitions](https://github.com/Helveg/jekyll-gfm-admonitions)
+    - [Contributions](https://github.com/Helveg/jekyll-gfm-admonitions/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
+  - [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+    - [Contributions](https://github.com/cotes2020/jekyll-theme-chirpy/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
+  - [Visual Studio Code](https://github.com/microsoft/vscode)
+    - [Contributions](https://github.com/microsoft/vscode/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
 </details>
