@@ -44,7 +44,7 @@
         - [[PredictiveBack] Use OnBackPressedCallback in MaterialBackOrchestrator for Android 12-](https://github.com/material-components/material-components-android/issues/3637)
         - [[SideSheet][BottomSheet][DatePicker][TimePicker][Dialog] Unify scrim color](https://github.com/material-components/material-components-android/issues/3635) ☑️
         - [[BottomAppBar] BottomAppBar casts a shadow](https://github.com/material-components/material-components-android/issues/2953) ☑️
-      - Open（Reviewing Internally）；
+      - Open（Reviewing Internally）：
         - [[Catalog][DatePicker] listener is added again after rotating device](https://github.com/material-components/material-components-android/pull/4499)
         - [[Slider] Fix slider label not moving](https://github.com/material-components/material-components-android/pull/4364) 🟥
         - [[Slider] simplified implementation](https://github.com/material-components/material-components-android/pull/4352)
