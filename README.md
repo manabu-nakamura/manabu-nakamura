@@ -1,5 +1,5 @@
 - [https://manabu-nakamura.github.io/](https://manabu-nakamura.github.io/)（日本語）
-- [Contributions](https://github.com/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[Material Components for Android](https://github.com/material-components/material-components-android)リポジトリでは，[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）
+- [Contributions](https://github.com/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[material-components-android](https://github.com/material-components/material-components-android)リポジトリでは，[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）
   - [Visual Studio Code](https://github.com/microsoft/vscode)
     - [Contributions](https://github.com/microsoft/vscode/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
   - [Visual Studio Code Language Packs](https://github.com/microsoft/vscode-loc)
@@ -21,7 +21,7 @@
 <summary>detail</summary>
 
 - [https://manabu-nakamura.github.io/](https://manabu-nakamura.github.io/)（日本語）
-- [Contributions](https://github.com/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[Material Components for Android](https://github.com/material-components/material-components-android)リポジトリでは，[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）
+- [Contributions](https://github.com/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[material-components-android](https://github.com/material-components/material-components-android)リポジトリでは，[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）
   - [Visual Studio Code](https://github.com/microsoft/vscode)
     - [Contributions](https://github.com/microsoft/vscode/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
   - [Visual Studio Code Language Packs](https://github.com/microsoft/vscode-loc)
