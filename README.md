@@ -11,8 +11,8 @@
   - [Jetpack Compose](https://developer.android.com/compose)
     - [Contributions](https://github.com/android/compose-samples/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
     - [App](https://github.com/manabu-nakamura/appc) and [Memo](https://github.com/manabu-nakamura/appc/blob/main/docs/memo.md)
-  - [Material Components for Android](https://github.com/material-components/material-components-android)（[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）
-    - [Contributions](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
+  - [Material Components for Android](https://github.com/material-components/material-components-android)
+    - [Contributions](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）
       - [Commits](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura)
     - [App](https://github.com/manabu-nakamura/app) and [Memo](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md)
 <details>
@@ -31,8 +31,8 @@
   - [Jetpack Compose](https://developer.android.com/compose)
     - [Contributions](https://github.com/android/compose-samples/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
     - [App](https://github.com/manabu-nakamura/appc) and [Memo](https://github.com/manabu-nakamura/appc/blob/main/docs/memo.md)
-  - [Material Components for Android](https://github.com/material-components/material-components-android)（[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）
-    - [Contributions](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
+  - [Material Components for Android](https://github.com/material-components/material-components-android)
+    - [Contributions](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）
       - [Commits](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura)
       - Closed：
         - [[Slider] vertical slider in horizontal scrollview can not be scrolled](https://github.com/material-components/material-components-android/issues/4510) ☑️
