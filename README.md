@@ -9,12 +9,12 @@
   - [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
     - [Contributions](https://github.com/cotes2020/jekyll-theme-chirpy/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
   - [Jetpack Compose](https://developer.android.com/compose)
-    - [Contributions](https://github.com/android/compose-samples/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
-    - [App](https://github.com/manabu-nakamura/appc) and [Memo](https://github.com/manabu-nakamura/appc/blob/main/docs/memo.md)
+    - [Contributions](https://github.com/android/compose-samples/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura) 🟥
+    - [App](https://github.com/manabu-nakamura/appc) and [Memo](https://github.com/manabu-nakamura/appc/blob/main/docs/memo.md) 🟥
   - [Material Components for Android](https://github.com/material-components/material-components-android)
-    - [Contributions](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）
-      - [Commits](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura)
-    - [App](https://github.com/manabu-nakamura/app) and [Memo](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md)
+    - [Contributions](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）🟥
+      - [Commits](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura) 🟥
+    - [App](https://github.com/manabu-nakamura/app) and [Memo](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md) 🟥
 <details>
 <summary>detail</summary>
 
@@ -29,11 +29,11 @@
   - [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
     - [Contributions](https://github.com/cotes2020/jekyll-theme-chirpy/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
   - [Jetpack Compose](https://developer.android.com/compose)
-    - [Contributions](https://github.com/android/compose-samples/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
-    - [App](https://github.com/manabu-nakamura/appc) and [Memo](https://github.com/manabu-nakamura/appc/blob/main/docs/memo.md)
+    - [Contributions](https://github.com/android/compose-samples/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura) 🟥
+    - [App](https://github.com/manabu-nakamura/appc) and [Memo](https://github.com/manabu-nakamura/appc/blob/main/docs/memo.md) 🟥
   - [Material Components for Android](https://github.com/material-components/material-components-android)
-    - [Contributions](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）
-      - [Commits](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura)
+    - [Contributions](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）🟥
+      - [Commits](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura) 🟥
       - Closed：
         - [[Slider] vertical slider in horizontal scrollview can not be scrolled](https://github.com/material-components/material-components-android/issues/4510) ☑️
         - [[Slider] label is not gone with slider](https://github.com/material-components/material-components-android/issues/4319) ☑️
@@ -64,5 +64,5 @@
         - [[TimePicker] chip is not hidden](https://github.com/material-components/material-components-android/pull/4005)
         - [[Catalog] Applied edge-to-edge to bottom sheet](https://github.com/material-components/material-components-android/pull/4001)
         - [[Catalog][BottomSheet] foreground color of status bar changes if bottom sheet is opened multiple times](https://github.com/material-components/material-components-android/issues/3940)
-    - [App](https://github.com/manabu-nakamura/app) and [Memo](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md)
+    - [App](https://github.com/manabu-nakamura/app) and [Memo](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md) 🟥
 </details>
