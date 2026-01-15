@@ -18,19 +18,6 @@
 <details>
 <summary>detail</summary>
 
-- [ブログ](https://manabu-nakamura.github.io/)
-- [Contributions](https://github.com/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[material-components-androidリポジトリ](https://github.com/material-components/material-components-android)では，[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）🟥
-  - [Visual Studio Code](https://github.com/microsoft/vscode)
-    - [Contributions](https://github.com/microsoft/vscode/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
-  - [Visual Studio Code Language Packs](https://github.com/microsoft/vscode-loc)
-    - [Contributions](https://github.com/microsoft/vscode-loc/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
-  - [WinUI 3 Gallery](https://github.com/microsoft/WinUI-Gallery)
-    - [Contributions](https://github.com/microsoft/WinUI-Gallery/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
-  - [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-    - [Contributions](https://github.com/cotes2020/jekyll-theme-chirpy/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
-  - [Jetpack Compose](https://developer.android.com/compose)
-    - [Contributions](https://github.com/android/compose-samples/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura) 🟥
-    - [App](https://github.com/manabu-nakamura/appc) and [Memo](https://github.com/manabu-nakamura/appc/blob/main/docs/memo.md) 🟥
   - [Material Components for Android](https://github.com/material-components/material-components-android)
     - [Contributions](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）🟥
       - [Commits](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura) 🟥
@@ -64,5 +51,4 @@
         - [[TimePicker] chip is not hidden](https://github.com/material-components/material-components-android/pull/4005)
         - [[Catalog] Applied edge-to-edge to bottom sheet](https://github.com/material-components/material-components-android/pull/4001)
         - [[Catalog][BottomSheet] foreground color of status bar changes if bottom sheet is opened multiple times](https://github.com/material-components/material-components-android/issues/3940)
-    - [App](https://github.com/manabu-nakamura/app) and [Memo](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md) 🟥
 </details>
