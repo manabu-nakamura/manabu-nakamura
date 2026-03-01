@@ -12,11 +12,11 @@
     - [貢献](https://github.com/untra/polyglot/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
   - [Jetpack Compose](https://developer.android.com/compose)
     - [貢献](https://github.com/android/compose-samples/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura) 🟥
-    - [App](https://github.com/manabu-nakamura/appc)と[Memo](https://github.com/manabu-nakamura/appc/blob/main/docs/memo.md) 🟥
+    - [サンプルアプリ](https://github.com/manabu-nakamura/appc)と[メモ](https://github.com/manabu-nakamura/appc/blob/main/docs/memo.md) 🟥
   - [Material Components for Android](https://github.com/material-components/material-components-android)
     - [貢献](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）🟥
       - [私が作成し，採用された変更](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura) 🟥
-    - [App](https://github.com/manabu-nakamura/app)と[Memo](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md) 🟥
+    - [サンプルアプリ](https://github.com/manabu-nakamura/app)と[メモ](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md) 🟥
 <details>
 <summary>詳細</summary>
 
@@ -47,5 +47,5 @@
         - [[TimePicker] chip is not hidden](https://github.com/material-components/material-components-android/pull/4005)
         - [[Catalog] Applied edge-to-edge to bottom sheet](https://github.com/material-components/material-components-android/pull/4001)
         - [[Catalog][BottomSheet] foreground color of status bar changes if bottom sheet is opened multiple times](https://github.com/material-components/material-components-android/issues/3940)
-    - [App](https://github.com/manabu-nakamura/app)と[Memo](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md) 🟥
+    - [サンプルアプリ](https://github.com/manabu-nakamura/app)と[メモ](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md) 🟥
 </details>
