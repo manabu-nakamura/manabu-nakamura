@@ -1,28 +1,28 @@
 - [ブログ](https://manabu-nakamura.github.io/)
-- [Contributions](https://github.com/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[material-components-androidリポジトリ](https://github.com/material-components/material-components-android)では，[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）🟥
+- [貢献](https://github.com/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[material-components-androidリポジトリ](https://github.com/material-components/material-components-android)では，[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）🟥
   - [Visual Studio Code](https://github.com/microsoft/vscode)
-    - [Contributions](https://github.com/microsoft/vscode/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
+    - [貢献](https://github.com/microsoft/vscode/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
   - [Visual Studio Code Language Packs](https://github.com/microsoft/vscode-loc)
-    - [Contributions](https://github.com/microsoft/vscode-loc/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
+    - [貢献](https://github.com/microsoft/vscode-loc/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
   - [WinUI 3 Gallery](https://github.com/microsoft/WinUI-Gallery)
-    - [Contributions](https://github.com/microsoft/WinUI-Gallery/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
+    - [貢献](https://github.com/microsoft/WinUI-Gallery/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
   - [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-    - [Contributions](https://github.com/cotes2020/jekyll-theme-chirpy/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
+    - [貢献](https://github.com/cotes2020/jekyll-theme-chirpy/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
   - [Polyglot](https://github.com/untra/polyglot)
-      - [Contributions](https://github.com/untra/polyglot/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
+    - [貢献](https://github.com/untra/polyglot/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
   - [Jetpack Compose](https://developer.android.com/compose)
-    - [Contributions](https://github.com/android/compose-samples/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura) 🟥
-    - [App](https://github.com/manabu-nakamura/appc) and [Memo](https://github.com/manabu-nakamura/appc/blob/main/docs/memo.md) 🟥
+    - [貢献](https://github.com/android/compose-samples/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura) 🟥
+    - [App](https://github.com/manabu-nakamura/appc)と[Memo](https://github.com/manabu-nakamura/appc/blob/main/docs/memo.md) 🟥
   - [Material Components for Android](https://github.com/material-components/material-components-android)
-    - [Contributions](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）🟥
-      - [Commits](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura) 🟥
-    - [App](https://github.com/manabu-nakamura/app) and [Memo](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md) 🟥
+    - [貢献](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）🟥
+      - [私が作成し，採用された変更](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura) 🟥
+    - [App](https://github.com/manabu-nakamura/app)と[Memo](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md) 🟥
 <details>
 <summary>詳細</summary>
 
   - [Material Components for Android](https://github.com/material-components/material-components-android)
-    - [Contributions](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）🟥
-      - [Commits](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura) 🟥
+    - [貢献](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）🟥
+      - [私が作成し，採用された変更](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura) 🟥
       - Open（Reviewing Internally）：
         - [[Catalog][DatePicker] listener is added again after rotating device](https://github.com/material-components/material-components-android/pull/4499)
         - [[Slider] Fix slider label not moving](https://github.com/material-components/material-components-android/pull/4364) 🟥
@@ -47,5 +47,5 @@
         - [[TimePicker] chip is not hidden](https://github.com/material-components/material-components-android/pull/4005)
         - [[Catalog] Applied edge-to-edge to bottom sheet](https://github.com/material-components/material-components-android/pull/4001)
         - [[Catalog][BottomSheet] foreground color of status bar changes if bottom sheet is opened multiple times](https://github.com/material-components/material-components-android/issues/3940)
-    - [App](https://github.com/manabu-nakamura/app) and [Memo](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md) 🟥
+    - [App](https://github.com/manabu-nakamura/app)と[Memo](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md) 🟥
 </details>
