@@ -11,21 +11,21 @@
   - [Polyglot](https://github.com/untra/polyglot)
     - [貢献](https://github.com/untra/polyglot/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
   - [Jetpack Compose](https://developer.android.com/compose)
-    - [貢献](https://github.com/android/compose-samples/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura) 🟥
-    - [サンプルアプリ](https://github.com/manabu-nakamura/appc)と[メモ](https://github.com/manabu-nakamura/appc/blob/main/docs/memo.md) 🟥
+    - [貢献](https://github.com/android/compose-samples/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)🟥
+    - [サンプルアプリ](https://github.com/manabu-nakamura/appc)と[メモ](https://github.com/manabu-nakamura/appc/blob/main/docs/memo.md)🟥
   - [Material Components for Android](https://github.com/material-components/material-components-android)
     - [貢献](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）🟥
-      - [私が作成し，採用された変更](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura) 🟥
-    - [サンプルアプリ](https://github.com/manabu-nakamura/app)と[メモ](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md) 🟥
+      - [私が作成し，採用された変更](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura)🟥
+    - [サンプルアプリ](https://github.com/manabu-nakamura/app)と[メモ](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md)🟥
 <details>
 <summary>詳細</summary>
 
   - [Material Components for Android](https://github.com/material-components/material-components-android)
     - [貢献](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）🟥
-      - [私が作成し，採用された変更](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura) 🟥
+      - [私が作成し，採用された変更](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura)🟥
       - Open（Reviewing Internally）：
         - [[Catalog][DatePicker] listener is added again after rotating device](https://github.com/material-components/material-components-android/pull/4499)
-        - [[Slider] Fix slider label not moving](https://github.com/material-components/material-components-android/pull/4364) 🟥
+        - [[Slider] Fix slider label not moving](https://github.com/material-components/material-components-android/pull/4364)🟥
         - [[Slider] simplified implementation](https://github.com/material-components/material-components-android/pull/4352)
       - Open（Workaround）：
         - [[Catalog] workaround for #3961 ([DatePicker][TimePicker][TextField] icons are different from spec)](https://github.com/material-components/material-components-android/pull/4556)
@@ -34,18 +34,18 @@
         - [[Catalog] workaround for #4139 ([TopAppBar] Color of ActionBar overflow menu background is incorrect)](https://github.com/material-components/material-components-android/pull/4542)
         - [[Catalog] workaround for #3969 ([Menu] context menu background color is strange)](https://github.com/material-components/material-components-android/pull/4540)
         - [[Catalog] workaround for #3635 ([NavigationDrawer] Unify scrim color)](https://github.com/material-components/material-components-android/pull/4530)
-        - [[Catalog] workaround for #1464 ([Exposed Dropdown Menu] Filtering incorrectly applied after rotation)](https://github.com/material-components/material-components-android/pull/4506) 🟥
+        - [[Catalog] workaround for #1464 ([Exposed Dropdown Menu] Filtering incorrectly applied after rotation)](https://github.com/material-components/material-components-android/pull/4506)🟥
       - Open：
-        - [scrim color of drawer layout (navigation drawer) is darker than scrim color of other components](https://issuetracker.google.com/issues/365245820) 🟥
-        - [[Catalog] add cutout mode preference](https://github.com/material-components/material-components-android/issues/4576) 🟥
+        - [scrim color of drawer layout (navigation drawer) is darker than scrim color of other components](https://issuetracker.google.com/issues/365245820)🟥
+        - [[Catalog] add cutout mode preference](https://github.com/material-components/material-components-android/issues/4576)🟥
         - [[Catalog][DatePicker] navigation bar has no contrast if edge to edge setting is on](https://github.com/material-components/material-components-android/issues/4501)
         - [[DatePicker] icon is inconsistent](https://github.com/material-components/material-components-android/issues/4485)
-        - [[DatePicker] add divider to DatePicker](https://github.com/material-components/material-components-android/issues/4470) 🟥
+        - [[DatePicker] add divider to DatePicker](https://github.com/material-components/material-components-android/issues/4470)🟥
         - [[Catalog] Use EdgeToEdge.enable() instead of EdgeToEdgeUtils.applyEdgeToEdge()](https://github.com/material-components/material-components-android/pull/4347)
         - [[Catalog][NavigationDrawer] background color of navigation drawer is incorrect](https://github.com/material-components/material-components-android/issues/4291)
         - [[Slider][RangeSlider] valueFrom and valueTo can have the same value](https://github.com/material-components/material-components-android/pull/4257)
         - [[TimePicker] chip is not hidden](https://github.com/material-components/material-components-android/pull/4005)
         - [[Catalog] Applied edge-to-edge to bottom sheet](https://github.com/material-components/material-components-android/pull/4001)
         - [[Catalog][BottomSheet] foreground color of status bar changes if bottom sheet is opened multiple times](https://github.com/material-components/material-components-android/issues/3940)
-    - [サンプルアプリ](https://github.com/manabu-nakamura/app)と[メモ](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md) 🟥
+    - [サンプルアプリ](https://github.com/manabu-nakamura/app)と[メモ](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md)🟥
 </details>
