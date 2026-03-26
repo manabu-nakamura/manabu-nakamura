@@ -6,6 +6,7 @@
     - [貢献](https://github.com/microsoft/WinUI-Gallery/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
   - [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
     - [貢献](https://github.com/cotes2020/jekyll-theme-chirpy/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
+  - …
   - [Jetpack Compose](https://developer.android.com/compose)
     - [貢献](https://github.com/android/compose-samples/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)🟥
     - [サンプルアプリ](https://github.com/manabu-nakamura/appc)と[メモ](https://github.com/manabu-nakamura/appc/blob/main/docs/memo.md)🟥
@@ -13,7 +14,6 @@
     - [貢献](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）🟥
       - [私が作成し，採用された変更](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura)🟥
     - [サンプルアプリ](https://github.com/manabu-nakamura/app)と[メモ](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md)🟥
-  - …
 <details>
 <summary>詳細</summary>
 
