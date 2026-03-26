@@ -2,8 +2,6 @@
 - [貢献](https://github.com/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[material-components-androidリポジトリ](https://github.com/material-components/material-components-android)では，[PRは直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）🟥
   - [Visual Studio Code](https://github.com/microsoft/vscode)
     - [貢献](https://github.com/microsoft/vscode/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
-  - [Visual Studio Code Language Packs](https://github.com/microsoft/vscode-loc)
-    - [貢献](https://github.com/microsoft/vscode-loc/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
   - [WinUI 3 Gallery](https://github.com/microsoft/WinUI-Gallery)
     - [貢献](https://github.com/microsoft/WinUI-Gallery/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)
   - [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
