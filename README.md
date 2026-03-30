@@ -11,14 +11,14 @@
     - [プルリクエスト](https://github.com/android/compose-samples/pulls?q=author%3Amanabu-nakamura)
   - [Material Components for Android](https://github.com/material-components/material-components-android)
     - [サンプルアプリ](https://github.com/manabu-nakamura/app)と[メモ](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md)
-    - [採用された変更](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura)
+    - [マージされたコミット](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura)
     - [プルリクエスト](https://github.com/material-components/material-components-android/pulls?q=author%3Amanabu-nakamura)（[直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）
 <details>
 <summary>詳細</summary>
 
   - [Material Components for Android](https://github.com/material-components/material-components-android)
     - [サンプルアプリ](https://github.com/manabu-nakamura/app)と[メモ](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md)
-    - [採用された変更](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura)
+    - [マージされたコミット](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura)
     - [プルリクエスト](https://github.com/material-components/material-components-android/pulls?q=author%3Amanabu-nakamura)（[直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）
       - Open（Reviewing Internally）：
         - [[Catalog][DatePicker] listener is added again after rotating device](https://github.com/material-components/material-components-android/pull/4499)
