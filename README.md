@@ -12,12 +12,8 @@
   - Kotlin
   - C#
   - …
-  - [Material Components for Android](https://github.com/material-components/material-components-android)
-    - [サンプルアプリ](https://github.com/manabu-nakamura/app)と[メモ](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md)
-    - [マージされたコミット](https://github.com/material-components/material-components-android/commits?author=manabu-nakamura)
-    - [プルリクエスト](https://github.com/material-components/material-components-android/issues?q=author%3Amanabu-nakamura%20OR%20commenter%3Amanabu-nakamura)（[直接マージされません](https://github.com/material-components/material-components-android/blob/master/docs/contributing.md#pull-request-process)）
 <details>
-<summary>詳細</summary>
+<summary>その他</summary>
 
   - [Material Components for Android](https://github.com/material-components/material-components-android)
     - [サンプルアプリ](https://github.com/manabu-nakamura/app)と[メモ](https://github.com/manabu-nakamura/app/blob/main/docs/memo.md)
